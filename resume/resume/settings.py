@@ -32,7 +32,7 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'resume.resume.settings')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['blooming-ravine-45816.herokuapp.com/ ']
+ALLOWED_HOSTS = ['blooming-ocean-17788.herokuapp.com/ ']
 
 
 # Application definition
